@@ -3,7 +3,7 @@
 ### 1. Machine Learning
 Field of study that gives computers the ability to learn without being explicitly programmed.
 
-### 2. AI General Intelligence
+### 2. Artifical General Intelligence
 - Building machines as intellgent as humans.
 - Machines try to behave, mimic human brain.
 
