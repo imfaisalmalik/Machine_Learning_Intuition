@@ -68,3 +68,7 @@ Field of study that gives computers the ability to learn without being explicitl
 #### iii) How to represent `f(x)`?
 
 $$ f_{w,b}(x^{(i)}) = wx^{(i)} + b \tag{1}$$
+
+
+
+#### [Go to Home](./README.md) 
