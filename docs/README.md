@@ -9,4 +9,5 @@ The Course 1 is about: Supervised Machine Learning: Regression and Classificatio
 
 ## 1. Supervised Machine Learning: Regression and Classification
 
-- [Week1 Page](week1.md)
+- [Week 1 Notes](week1.md)
+  > `Week 1 Lab` &emsp; \[[HTML Web View](1_LinearRegression/Linear_Regression.html)\] &emsp; \[[Jupyter-Notebook](1_LinearRegression/Linear_Regression.ipynb)\]
