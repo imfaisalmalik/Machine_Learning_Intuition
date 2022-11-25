@@ -26,3 +26,7 @@ The Course 1 is about: Supervised Machine Learning: Regression and Classificatio
 
   > `Week 2 Lab - Features Scaling` &emsp; \[[HTML Web View](3_Features_Scaling_Engineering\FeaturesScaling.html)\] 
   &emsp; \[[Jupyter-Notebook](https://github.com/imfaisalmalik/Machine_Learning_Intuition/tree/gh-pages/docs/3_Features_Scaling_Engineering/FeaturesScaling.ipynb)\]
+
+  > `Week 2 Lab - Linear Regression using Sklearn` &emsp; 
+  \[[HTML Web View](4_LinearRegression_Sklearn/LinearRegression_Sklearn.html)\] 
+  &emsp; \[[Jupyter-Notebook](https://github.com/imfaisalmalik/Machine_Learning_Intuition/tree/gh-pages/docs/4_LinearRegression_Sklearn/LinearRegression_Sklearn.ipynb)\]
