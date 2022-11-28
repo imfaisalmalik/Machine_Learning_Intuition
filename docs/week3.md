@@ -8,7 +8,7 @@
 - Here `positive` and `negative` doesn't mean `good` or `bad` instead `poitive class` means the `presence` and `neagative class` means the `absence` of something.
 
 ## 2. Decision Boundry
-- Dividing line where we are neautral. 
+- The dividing line where we are neautral. Before and after the decision boundry, we classify data points. 
 
 ## 3. Why Linear Regression is not a good algorithm for classification?
 - Adding a single data point (say at right) can change the decision boundry, i.e., our conclusion about how to classify data, e.g., `malignant tumor` vs `benign tumor`. 
@@ -54,9 +54,21 @@ $$ g(z) = \frac{1}{1+e^{-z}} \tag{1}$$
 
 ## 9. Overfitting vs Underfitting
 - `Overfitting` High Varience means high variation in model fitting curve.
+    - Model does not fit the training set well.
+    - Very complex Decision Boundry.
+    - `f(x)` has a `High Order Ploynomial` equation.
 - `Underfitting` High Bias means model prediction is biased towards some class.
-
+    - Model fits the training set extremely well.
+    - `f(x)` has a `Linear` equation.
+- Our goal is to acheive `Generalization`. We want to generalize the model, i.e., model perform well even on examples not used in training.
+- We want `Just Right` generalized model.
+- Interchangeably used terms:
+    - High Bias == Underfit
+    - High Varience == Overfit
 ## 10. Three Things to Consider About Every Machine Learning Algorithm
 - Model Function / Equation `f(x)`
 - Cost Function `J(w,b)`
 - How to minimize cost using Gradient Descent or some other algorithm? `min J(w,b)`
+
+
+#### [Go to Home](./README.md) 
