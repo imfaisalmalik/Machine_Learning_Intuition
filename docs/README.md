@@ -30,3 +30,8 @@ The Course 1 is about: Supervised Machine Learning: Regression and Classificatio
   > `Week 2 Lab - Linear Regression using Sklearn` &emsp; 
   \[[HTML Web View](4_LinearRegression_Sklearn/LinearRegression_Sklearn.html)\] 
   &emsp; \[[Jupyter-Notebook](https://github.com/imfaisalmalik/Machine_Learning_Intuition/tree/gh-pages/docs/4_LinearRegression_Sklearn/LinearRegression_Sklearn.ipynb)\]
+
+
+  - [Week 3 Notes](week3.md)
+  > `Week 3 Lab - Sigmoid Function, Cost Function, and Gradient Descent for Logistic Regression` &emsp; \[[HTML Web View](5_LogisticRegression/Logistic_Regression.html)\] &emsp; 
+  \[[Jupyter-Notebook](https://github.com/imfaisalmalik/Machine_Learning_Intuition/tree/gh-pages/docs/5_LogisticRegression/Logistic_Regression.ipynb)\]
