@@ -65,6 +65,7 @@ $$ g(z) = \frac{1}{1+e^{-z}} \tag{1}$$
 - Interchangeably used terms:
     - High Bias == Underfit
     - High Varience == Overfit
+
 ## 10. Three Things to Consider About Every Machine Learning Algorithm
 - Model Function / Equation `f(x)`
 - Cost Function `J(w,b)`
